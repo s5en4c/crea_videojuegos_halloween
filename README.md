@@ -12,8 +12,10 @@ hay que descomprimir todas las carpetas y agruparlas de la siguiente forma:
 - Halloween_Library2
 - Halloween_Library3
 
-Crear una carpeta del proyecto y dentro añadir:
+3. dentro de la carpeta Halloween_P1
 - la carpeta Library del paso anterior
+
+4. Desde unity añadir la carpeta Halloween_P1 y ya podras editar el juego
 
 FIN
 

@@ -11,6 +11,5 @@ Dentro de esta carpeta Library añadir Halloween_Library2 y Halloween_Library3 a
 
 Crear una carpeta del proyecto y dentro añadir:
 - la carpeta Library del paso anterior
-- la carpeta Halloween_P2
 
 

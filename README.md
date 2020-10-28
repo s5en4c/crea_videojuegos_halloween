@@ -8,7 +8,7 @@ hay que descomprimir todas las carpetas y agruparlas de la siguiente forma:
 - Halloween_Cache2 
 
 2. dentro de la Carpeta library que hay en el interior de Halloween_Library1 va:
-- La carpeta que hemos creado en el paso anterior
+- La carpeta que hay dentro de Halloween_Cache1 (a la que hemos añadido Halloween_Cache2)
 - Halloween_Library2
 - Halloween_Library3
 
